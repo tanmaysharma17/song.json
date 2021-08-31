@@ -1,7 +1,7 @@
 {
 	"singers": [{
-			"name": "Sonu Nigam",
-			"photo": "https://img.wynk.in/unsafe/275x275/filters:no_upscale():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/artists/profile/5a8eb0be2951624319d6c39d.png"
+			"name": "Jubin Nautiyal",
+			"photo": "https://img.wynk.in/unsafe/275x275/filters:no_upscale():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/artists/profile/5ad09f05295162686d7c3185.png"
 		},
 		{
 			"name": "Kailash Kher",
@@ -21,7 +21,7 @@
 		},
 		{
 			"name": "Honey Singh",
-			"photo": ""
+			"photo": "https://img.wynk.in/unsafe/275x275/filters:no_upscale():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/artists/profile/5a8eafc02951624319d6c385.png"
 		}
 
 	]
